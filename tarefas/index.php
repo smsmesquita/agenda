@@ -44,9 +44,11 @@
                     <a href="edit.php?id=<?php echo $linha["id"]?>"> <button type="button" class="btn btn-dark">Editar</button></a>
                 </td>
             </tr>
+         
         <?php }?>
         </tbody>
     </table>
 </div>
+
 </body>
 </html>
